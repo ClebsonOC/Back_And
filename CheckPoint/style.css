@@ -1,0 +1,72 @@
+
+body{
+
+    background-image: url(/img/rj.jpeg);
+        background-repeat: no-repeat;
+            background-size:cover;
+                background-attachment: fixed;
+    
+}
+
+header{
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    letter-spacing: 5px;
+    color: rgb(184, 107, 20);
+        font-size: 40px;
+            padding: 20px;
+                padding-bottom: 5px;
+                    
+}
+
+.resumo{
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+        text-align: center;
+            font-style: unset;
+                color: rgb(34, 21, 21);
+                    background-color: rgb(184,107,20);
+                        opacity: 0.8;
+                    
+    
+}
+
+span{
+    font-weight: 700;
+}
+.video{
+    text-align: center;
+}
+
+.box{
+    font-family: 'Lobster', cursive;
+        font-size: 19px;
+            text-align: center;
+                background-color: rgb(184, 107, 20);
+                    opacity: 0.8;
+                        width: 550px;
+                            margin: auto;
+
+}
+.youtube{
+    width: 130px;
+        height: 110px;
+                background-image: url(img/Youtube_icon-icons.com_66802.ico);
+                    background-repeat: no-repeat;
+                        position: absolute;
+                            left: 800px;
+                                margin: 10px;
+                                    
+                   
+}
+.instagram{
+    width: 130px;
+        height: 125px;
+                background-image: url(img/Instagram_icon-icons.com_66804.ico);
+                    background-repeat: no-repeat;
+                        position: absolute;
+                            left: 400px;
+                                margin: 10px;
+                                    
+}
+
